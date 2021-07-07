@@ -40,4 +40,4 @@ The User or Student is provided with the following features :
 [Document link for using the Portal in a User's point of view.](link2)
 
 #As a Contributor, how you can make use EMS portal
-[Document link for using the Portal in a Contributor's point of view.]  
+[Document link for using the Portal in a Contributor's point of view.](link3)  
