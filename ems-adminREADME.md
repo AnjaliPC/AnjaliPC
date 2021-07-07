@@ -33,3 +33,15 @@ The User or Student is provided with the following features :
 ## Pre-requisites
 * Node.js, PostgreSQL.
 
+To install all the dependencies, you can run this command inside the project directory:
+### `npm install`
+
+Setting up the project
+### `npm start`
+
+Runs the app in the development mode.
+Open http://localhost:3003 to view it in the browser.
+
+# Install the following projects
+* [emsfrontend] (https://github.com/KannepallyKoushik/emsfrontend.git)
+* [EMSbackend] (https://github.com/KannepallyKoushik/EMSbackend.git)
