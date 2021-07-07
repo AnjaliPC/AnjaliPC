@@ -31,13 +31,5 @@ The User or Student is provided with the following features :
  -Various notifications published by the Admin is visible here, like Deadline for Elective submission.
 
 ## Pre-requisites
-* Window's version 7 or above.
+* Node.js, PostgreSQL.
 
-## Basic Setup
-[Document link for setting up the EMS portal application in your system.] (https://amritavishwavidyapeetham-my.sharepoint.com/:w:/g/personal/cb_en_p2cse20006_cb_students_amrita_edu/Ea1f_N3NiBtCn5O1x3y_k28Bnpew_gEQhf9hQbyNFrALSQ?e=iLo0xP)
-
-## As a User, how you can make use of EMS portal
-[Document link for using the Portal in a User's point of view.] (link2)
-
-## As a Contributor, how you can make use of EMS portal
-[Document link for using the Portal in a Contributor's point of view.] (link3)  
