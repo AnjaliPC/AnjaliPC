@@ -39,5 +39,5 @@ The User or Student is provided with the following features :
 ## As a User, how you can make use of EMS portal
 [Document link for using the Portal in a User's point of view.] (link2)
 
-## As a Contributor, how you can make use EMS portal
+## As a Contributor, how you can make use of EMS portal
 [Document link for using the Portal in a Contributor's point of view.] (link3)  
