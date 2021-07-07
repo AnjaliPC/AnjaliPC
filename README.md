@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnjaliPC
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Mtech CSE.
+- 🌱 I’m currently studying, Mtech CSE at Amrita College, Coibatore.
 - 📫 How to reach me : mail-id - pcanjalianju17@gmail.com
 
 <!---
