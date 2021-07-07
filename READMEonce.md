@@ -34,10 +34,10 @@ The User or Student is provided with the following features :
 * Window's version 7 or above.
 
 ## Basic Setup
-[Document link for setting up the EMS portal application in your system.](link1)
+[Document link for setting up the EMS portal application in your system.] (link1)
 
 ## As a User, how you can make use of EMS portal
-[Document link for using the Portal in a User's point of view.](link2)
+[Document link for using the Portal in a User's point of view.] (link2)
 
 ## As a Contributor, how you can make use EMS portal
-[Document link for using the Portal in a Contributor's point of view.](link3)  
+[Document link for using the Portal in a Contributor's point of view.] (link3)  
